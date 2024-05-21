@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LUMIA_WEBSITE.props" />
+</Project>

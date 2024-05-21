@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LUMIA_WEBSITE.props" />
+</Project>
